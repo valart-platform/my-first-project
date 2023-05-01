@@ -1,7 +1,8 @@
 <template>
-  <div>
+  <div class="container">
     <h1>APP</h1>
     <ButtonCounter />
+    <button-counter/>
   </div>
 </template>
 
