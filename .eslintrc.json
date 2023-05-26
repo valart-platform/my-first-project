@@ -12,5 +12,11 @@
     "sourceType": "module"
   },
   "plugins": ["vue"],
-  "rules": {}
+  "rules": {
+    "quotes": 0,
+    "semi": 0,
+    "comma-dangle": 0,
+    "vue/max-attributes-per-line": 0,
+    "vue/singleline-html-element-content-newline": 0
+  }
 }
